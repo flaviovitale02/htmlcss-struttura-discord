@@ -1,0 +1,38 @@
+.container1{
+    background-color: aquamarine;
+    height:60px;
+}
+
+
+.flex-container{
+    display: flex;
+}
+
+
+ul{
+    list-style-type: none;
+    justify-content: center;
+}
+
+li{
+    padding-right: 3%;
+}
+
+div{
+    width:70%;
+    margin: auto;
+    max-width: 800px;
+}
+
+.dashed-yellow1{
+    border: 2px dashed black;
+    background-color: goldenrod;
+    width:20%;
+}
+
+.dashed-yellow2{
+    border: 2px dashed black;
+    background-color: goldenrod;
+    width:60%;
+    padding:2px;
+}
