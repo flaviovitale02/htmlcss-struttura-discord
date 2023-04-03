@@ -83,3 +83,18 @@ li{
     margin-right:auto;
     margin-left: 0%;
 }
+
+.green-rec{
+    width: 50%;
+    height: 600px;
+    background-color: darkgreen;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.container-g{
+    background-color: lightgray;
+    height: 800px ;
+    justify-content: center;
+}
