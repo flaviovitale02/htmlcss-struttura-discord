@@ -119,3 +119,24 @@ footer{
     height: 300px;
     width: 20% ;
 }
+
+.aqua-bg{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+}
+
+#hr-bianco{
+    margin:3%;
+}
+
+.dashed-pink{
+    background-color: pink;
+    border: 2px dashed black;
+    padding: 2px;
+}
+
+.space{
+    justify-content: space-between;
+    align-items: center;
+}
