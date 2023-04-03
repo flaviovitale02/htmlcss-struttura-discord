@@ -18,8 +18,8 @@ li{
     padding-right: 3%;
 }
 
-div{
-    width:70%;
+.standard{
+    width:80%;
     margin: auto;
     max-width: 800px;
 }
@@ -35,4 +35,51 @@ div{
     background-color: goldenrod;
     width:60%;
     padding:2px;
+}
+
+
+.container2{
+    background-color: blue;
+    height:500px;
+    align-items: center;
+}
+
+.hotpink-rect{
+    background-color: hotpink;
+    border: 2px dashed black;
+    height: 400px;
+    width: 700px
+}
+
+.blue-rec{
+    background-color: blue;
+    border: 2px dashed black;
+    height: 300px;
+    width:30%;
+    margin: auto;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+
+.pink-rec{
+    background-color: pink;
+    border: 2px dashed black;
+    height: 300px;
+    width:20%;
+    margin:  auto;
+    margin-left: 0%;
+    margin-top: 5%;
+}
+
+.bg-lightgray{
+    background-color: lightgrey;
+}
+
+.reverse1{
+    margin-left:auto;
+    margin-right: 0%;
+}
+.reverse2{
+    margin-right:auto;
+    margin-left: 0%;
 }
