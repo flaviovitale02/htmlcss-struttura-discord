@@ -37,6 +37,9 @@ li{
     padding:2px;
 }
 
+.text-align{
+    text-align: right;
+}
 
 .container2{
     background-color: blue;
